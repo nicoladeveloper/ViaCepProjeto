@@ -23,5 +23,5 @@ Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
 </div>
 
 <div>
-<h1>Erros/invalidação de cep</h1>
+<h2>Erros/invalidação de cep</h1>
 <div/>
