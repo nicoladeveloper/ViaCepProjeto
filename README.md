@@ -22,5 +22,5 @@ Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
 <img align = "left" height = "250" src = "https://i.postimg.cc/fypX75b5/funcionando.jpg"/>
 </div>
 
-
+<h1>                         <h1/>
 <h1>POSSIVEIS INVALIDAÇÕES</h1>
