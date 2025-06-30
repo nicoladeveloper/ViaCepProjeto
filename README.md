@@ -1,7 +1,7 @@
 # ViaCepProjeto
 
 <h2>
-  Resumo do projeto:
+<img align = "left" height= "100" src = "https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"/>Resumo do projeto:
 Valida a entrada do usuário no campo #cep, permitindo apenas números.
 
 Quando o botão é clicado (função buscarCep):
