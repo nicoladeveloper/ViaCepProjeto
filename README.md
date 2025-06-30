@@ -16,6 +16,8 @@ Se for inválido ou não encontrado:
 Mostra uma mensagem de erro.
 
 Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
+<h2/>
+  
 <div>
 <h3>INTERFACE - EXECUÇÃO</h3>
 <img align = "left" height = "250" src = "https://i.postimg.cc/x1YBVSYv/interface-do-site.jpg"/>
