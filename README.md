@@ -19,9 +19,9 @@ Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
   
 <div>
 <h3>INTERFACE - EXECUÇÃO</h3>
-<img align = "left" height = "250" src = "https://i.postimg.cc/x1YBVSYv/interface-do-site.jpg"/>
+<img align = "left" height = "200" src = "https://i.postimg.cc/x1YBVSYv/interface-do-site.jpg"/>
   
-<img align = "left" height = "250" src = "https://i.postimg.cc/fypX75b5/funcionando.jpg"/>
+<img align = "left" height = "200" src = "https://i.postimg.cc/fypX75b5/funcionando.jpg"/>
 </div>
 
 
