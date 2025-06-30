@@ -26,7 +26,7 @@ Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
 
 
                                                       
-<<h2>Possiveis invalidações<h2/><img align = "left" height = "150" src = "https://i.postimg.cc/vHb7pDyX/cep-n-o-encontrado.jpg"/>
-<img align = "left" height = "150" src = "https://i.postimg.cc/KYw2pRK8/cep-inv-lido-digite-8-digitos.jpg"/>
+<<h2>INFORMAÇÕES DE ERROS<h2/><img align = "left" height = "170" src = "https://i.postimg.cc/vHb7pDyX/cep-n-o-encontrado.jpg"/>
+<img align = "left" height = "170" src = "https://i.postimg.cc/KYw2pRK8/cep-inv-lido-digite-8-digitos.jpg"/>
 
 
