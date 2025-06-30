@@ -25,5 +25,5 @@ Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
 
                                                       
 <h2>POSSIVEIS INVALIDAÇÕES</h2>
-<img align = "left" height = "250" src = "https://i.postimg.cc/vHb7pDyX/cep-n-o-encontrado.jpg"/>
+<img align = "left" height = "200" src = "https://i.postimg.cc/vHb7pDyX/cep-n-o-encontrado.jpg"/>
 
