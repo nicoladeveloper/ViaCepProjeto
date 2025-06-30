@@ -17,3 +17,4 @@ Mostra uma mensagem de erro.
 
 Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
 </h2>
+<img align = "left" height = "100" src = "https://i.postimg.cc/fypX75b5/funcionando.jpg"/>
