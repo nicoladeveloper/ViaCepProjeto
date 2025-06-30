@@ -17,7 +17,7 @@ Mostra uma mensagem de erro.
 
 Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
 </h2>
-<H1>INTERFACE                                                                   EXECUÇÃO</H1>
+<H1>INTERFA</H1>                <H1>EXECUÇÃO</H1>
 <img align = "left" height = "200" src = "https://i.postimg.cc/x1YBVSYv/interface-do-site.jpg"/>
 <img align = "left" height = "200" src = "https://i.postimg.cc/fypX75b5/funcionando.jpg"/>
 
