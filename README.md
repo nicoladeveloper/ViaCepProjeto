@@ -22,7 +22,4 @@ Em caso de erro de rede, exibe uma mensagem adequada no console e na tela.
 <img align = "left" height = "200" src = "https://i.postimg.cc/fypX75b5/funcionando.jpg"/>
 </div>
 
-####
-<div>
-<h2>Erros/invalidação de cep</h2>
-<div/>
+###invalido
