@@ -1,0 +1,62 @@
+body {
+  font-family: 'Roboto', sans-serif; /* Fonte principal da página */
+}
+
+.painel {
+  max-width: 500px; /* Largura máxima do painel */
+  background-color: white; /* Cor de fundo */
+  margin: auto; /* Centraliza na horizontal */
+  margin-top: 60px; 
+  border-radius: 8px; /* Cantos arredondados */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Sombra ao redor do painel */
+  padding: 20px; 
+}
+
+.input-group {
+  display: flex; 
+  margin-top: 10px; 
+}
+
+input {
+  flex: 0; 
+  padding: 10px; 
+  border: 1px solid #ccc; /* Borda cinza */
+  border-radius: 6px 0 0 6px; /* Arredondamento canto esquerdo */
+}
+
+button {
+  padding: 10px 20px; 
+  background-color: #f57224; /* Cor de fundo do botão */
+  color: white; /* Cor do texto */
+  border: none; /* Sem borda */
+  border-radius: 0 6px 6px 0; /* Arredondamento canto direito */
+  cursor: pointer; /* Cursor de clique */
+  transition: background-color 0.3s ease; /* Transição suave da cor de fundo */
+}
+
+button:hover {
+  background-color: #e55d0c; /* Cor ao passar o mouse */
+}
+
+label {
+  font-size: 16px; /* Tamanho da fonte */
+  color: #1c5a2c; /* Cor do texto */
+  display: block; 
+  margin-bottom: 1px; /* Espaço abaixo do rótulo */
+  text-align: left; /* Alinhamento à esquerda */
+}
+
+#resultado {
+  margin-top: 20px; /* Espaço acima do resultado */
+  font-size: 16px; /* Tamanho da fonte */
+  color: #333; /* Cor do texto */
+  text-align: left; /* Alinhamento à esquerda */
+}
+
+.error-message {
+  color: red; /* Cor do texto de erro */
+  font-size: 14px; /* Tamanho da fonte */
+  margin-top: 10px; /* Espaço acima da mensagem */
+  text-align: left; /* Alinhamento à esquerda */
+  font-weight: bold; /* Texto em negrito */
+}

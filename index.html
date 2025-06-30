@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">  <!-- Define o conjunto de caracteres e a linguagem -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Busca de cep</title> <!-- Título da aba do navegador -->
+    <link rel="stylesheet" href="style.css"> <!-- Importa o arquivo de estilo externo -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"> <!-- fonte -->
+</head>
+<body>
+    <div class = "painel" >
+        <h1>Consulta de Endereço por Cep</h1>
+        <label for="cep">Digite o CEP:</label>
+    <div class="input-group"> 
+        <input type="text" id = "cep" placeholder = "Digite seu cep" > <!-- Campo para digitar o CEP -->
+        <button onclick = "buscarCep()">Buscar</button>   
+    </div>
+
+    <div id="resultado"></div>
+    </div>
+
+    <script src ="script.js"></script> <!-- Importa o JavaScript -->
+</body>
+</html>
