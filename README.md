@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 📮 ViaCep - Consulta de CEP em Tempo Real
+#  ViaCep - Consulta de CEP em Tempo Real
 
 ![Status](https://img.shields.io/badge/Status-Completo-success?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
@@ -16,7 +16,7 @@
 
 ---
 
-## Sobre o Projeto
+## Sobre
 
 **ViaCep** é uma aplicação web desenvolvida para facilitar a busca de informações de endereço através do CEP (Código de Endereçamento Postal). Com uma interface intuitiva e responsiva, o sistema valida automaticamente a entrada do usuário, consulta a API ViaCEP e retorna dados completos do endereço em tempo real.
 
@@ -26,7 +26,7 @@ Proporcionar uma ferramenta rápida e eficiente para consulta de CEPs, eliminand
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Proporcionar uma ferramenta rápida e eficiente para consulta de CEPs, eliminand
 
 </div>
 
-### 🔧 Recursos Técnicos
+### Recursos Técnicos
 
 - **HTML5**: Estrutura semântica e acessível
 - **CSS3**: Design moderno e responsivo
@@ -73,7 +73,7 @@ Quando o CEP é encontrado, o sistema exibe:
 | **Cidade** | Município |
 | **Estado** | Unidade Federativa (UF) |
 
-### ⚠️ Tratamento de Erros
+### Tratamento de Erros
 
 O sistema identifica e trata três tipos principais de erros:
 
@@ -85,7 +85,7 @@ O sistema identifica e trata três tipos principais de erros:
 
 ##  Demonstração
 
-### 🖥️ Interface Principal
+### Interface Principal
 
 <div align="center">
 
@@ -121,9 +121,9 @@ A interface conta com:
 
 ---
 
-## ⚠️ Possíveis Erros e Validações
+## Possíveis Erros e Validações
 
-### ❌ Erro 1: CEP Não Encontrado
+### Erro 1: CEP Não Encontrado
 
 <div align="center">
 
@@ -139,7 +139,7 @@ A interface conta com:
 
 ---
 
-### ❌ Erro 2: CEP Inválido (Formato)
+### Erro 2: CEP Inválido (Formato)
 
 <div align="center">
 
@@ -206,32 +206,17 @@ Cadastro de filiais e fornecedores
 
 **Exemplo de Resposta:**
 
-```json
-{
-  "cep": "01310-100",
-  "logradouro": "Avenida Paulista",
-  "complemento": "de 612 a 1510 - lado par",
-  "bairro": "Bela Vista",
-  "localidade": "São Paulo",
-  "uf": "SP",
-  "ibge": "3550308",
-  "gia": "1004",
-  "ddd": "11",
-  "siafi": "7107"
-}
-```
-
  [Documentação Oficial da ViaCEP](https://viacep.com.br/)
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-## 📞 Contato
+##  Contato
 
 <div align="center">
 
